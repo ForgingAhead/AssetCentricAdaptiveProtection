@@ -1,4 +1,4 @@
-# AssetCentricAdaptiveProtection
+# Asset-Centric Adaptive Protection
 
 Asset Centric Adaptive Protection (ACAP) defines an approach that monitors assets of a system and changes the security controls for those assets in response to changes of assets value. The approach is explained in the paper [Requirements driven Adaptive Security: Protecting Variable Assets at Runtime](https://www.researchgate.net/publication/228533476_Requirements-driven_Adaptive_Security_Protecting_Variable_Assets_at_Runtime). Two prototypes were developed as proofs of concept to demonstrate the ACAP approach: _ACAP Configure tool_ and _ACAP Android app_.
 
